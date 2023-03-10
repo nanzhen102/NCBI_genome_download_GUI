@@ -25,25 +25,22 @@ class GenomeDownloadGUI:
         self.format_label.pack()
 
         self.format_var = tk.StringVar(master)
-        self.format_var.set("FASTA")  # Default format
-        self.format_menu = tk.OptionMenu(master, self.format_var, "FASTA", "GenBank", "All")
+        self.format_var.set("fasta")  # Default format
+        self.format_menu = tk.OptionMenu(master, self.format_var, "fasta", "GenBank", "All")
         self.format_menu.pack()
 
         # check ACC numbers by the dry run
         self.genus_label = tk.Label(master, text="") # create a blank label
         self.genus_label.pack()
 
-        self.genus_label = tk.Label(master, text="Check collected ACC numbers:")
-        self.genus_label.pack()
-
-        self.download_button = tk.Button(master, text="Check", command=self.dryrun)
+        self.download_button = tk.Button(master, text="Check collected \n ACC numbers", command=self.dryrun)
         self.download_button.pack()
 
         # download
         self.genus_label = tk.Label(master, text="") # create a blank label
         self.genus_label.pack()
 
-        self.download_button = tk.Button(master, text="Download", font=("Arial Bold", 14), command=self.download)
+        self.download_button = tk.Button(master, text="Download \n Genomes", font=("Arial Bold", 14), command=self.download)
         self.download_button.pack()
 
         # my information
@@ -55,14 +52,18 @@ class GenomeDownloadGUI:
 
     def dryrun(self): 
         genus = self.genus_entry.get() # Retrieve the user input
-        format = self.format_var.get()
-        process = subprocess.Popen("ncbi-genome-download", "--genera", genus, "--formats", format, "--parallel 4", "--dry-run")
-        return_code = process.wait() # Wait for the process to finish and get its return code
-        if return_code == 0:
-            print(f"Genome of {genus} downloaded successfully.")
+        format = self.format_var.get()    
+        output_folder = "/Users/nanzhen"
+        output_check_file = "/Users/nanzhen/check.txt"
+        cmd = ["ncbi-genome-download", "--genera", genus, "--formats", format, "--parallel", "4", "--dry-run", "--output-folder", output_folder, "bacteria"]
+        process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        stdout, stderr = process.communicate()
+        if process.returncode != 0:
+            print(f"An error occurred: {stderr.decode()}")
         else:
-            print("An error occurred while downloading the genome.")
-
+            with open(output_check_file, "w") as f:
+                f.write(stdout.decode())
+            print(f"Command executed successfully. Output written to {output_check_file}")
 
     def download(self):
         genus = self.genus_entry.get() # Retrieve the user input
