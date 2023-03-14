@@ -1,0 +1,1193 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="True" name="HandheldFriendly"/>
+  <meta content="320" name="MobileOptimized"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <!-- UA-68648221-3 -->
+  <!-- Favicons -->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.ico" rel="shortcut icon" type="image/ico"/>
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png" rel="icon" type="image/png"/>
+  <!-- 192x192, as recommended for Android
+http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+-->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-57.png" rel="apple-touch-icon-precomposed"/>
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+  <!-- Stylesheets -->
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+  <link href="/data-hub/static/CACHE/css/output.284b5414eea3.css" rel="stylesheet" type="text/css"/>
+  <link href="/data-hub/static/CACHE/css/output.001399968925.css" rel="stylesheet" type="text/css"/>
+  <link href="/data-hub/static/CACHE/css/output.3766d7ad0d2d.css" rel="stylesheet" type="text/css"/>
+  <!--
+<link rel="stylesheet" href="https://www.ncbi.nlm.nih.gov/search/static/main/css/nwds.min.css" />
+-->
+  <link href="/data-hub/static/bundles/ncbi_standards.7369cbba3d9f30562a2f.css" rel="stylesheet"/>
+  <link href="/data-hub/static/bundles/taxonomy_record.79a95e66fdc20bc802b0.css" rel="stylesheet"/>
+  <title>
+   Lapidilactobacillus concavus - NCBI - NLM
+  </title>
+  <!-- meta tags -->
+  <meta content="index,follow,noarchive,noimageindex" name="robots"/>
+  <meta content="Classification and research data for Lapidilactobacillus concavus, a species of  firmicute in the family Lactobacillaceae.." name="description"/>
+  <meta content="Lapidilactobacillus concavus" property="og:title"/>
+  <meta content="Classification and research data for Lapidilactobacillus concavus, a species of  firmicute in the family Lactobacillaceae.." property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="NCBI" property="og:site_name"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Lapidilactobacillus concavus" name="twitter:title"/>
+  <meta content="Classification and research data for Lapidilactobacillus concavus, a species of  firmicute in the family Lactobacillaceae.." name="twitter:description"/>
+  <meta content="@NCBI" name="twitter:site"/>
+  <meta content="www.ncbi.nlm.nih.gov" name="twitter:domain"/>
+  <meta content="367794192480" property="fb:pages"/>
+  <meta content="#0071bc" name="theme-color"/>
+  <!-- Logging params: Pinger defaults -->
+  <meta content="gdh-data-hub" name="ncbi_app"/>
+  <meta content="taxonomy" name="ncbi_db"/>
+  <meta content="taxonomy_record" name="ncbi_pdid"/>
+  <meta content="D0BD13197B1EBCC50000577D8C55B0F3.1.m_1" name="ncbi_phid"/>
+  <!-- Logging params: Pinger custom -->
+  <meta content="production" name="ncbi_app_role"/>
+  <meta content="3.70.0" name="ncbi_app_version"/>
+  <meta content="retrieve" name="ncbi_op"/>
+  <meta content="287844" name="ncbi_uidlist"/>
+  <meta content="full" name="ncbi_report"/>
+  <meta content="firmicutes" name="ncbi_pcid"/>
+  <meta content="287844" name="ncbi_taxid"/>
+  <meta content="Lapidilactobacillus concavus" name="ncbi_taxname"/>
+  <meta content="species" name="ncbi_taxrank"/>
+  <meta content="taxon" name="ncbi_type"/>
+  <meta content="firmicutes" name="ncbi_kind"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DP2X732JSX&amp;l=pingerDataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" id="pingerInjectedGTM" src="https://www.googletagmanager.com/gtm.js?id=GTM-PC9B6M3&amp;l=pingerDataLayer">
+  </script>
+  <script type="text/javascript">
+   var useOfficialGovtHeader = true;  /* referenced in header.js */
+    var localInstance = false
+    var ncbiBaseUrl = "https://www.ncbi.nlm.nih.gov";
+    var ncbiRegion = "bethesda-prod";
+    var ncbiRole = "production";
+    var ncbiLabs = false
+    var appBaseUrl = "/data-hub";
+    var appName = "gdh-data-hub";
+    var appVersion = "3.70.0";
+    var appPage = "taxonomy_record";
+    var pageId = "D0BD13197B1EBCC50000577D8C55B0F3.1";
+    var clientOS = "Mac OS X";
+    var clientBrowser = "Chrome;"
+    var clientId = "4BCF006940A4FBB3_143548SID"
+    var actZone = null
+    var actUsrId = null
+    var actLogin = null
+    var actToken = null
+    var datasetsApiUrlVersionless = "https://api.ncbi.nlm.nih.gov/datasets";
+    var pubmedApi = "https://pubmed.ncbi.nlm.nih.gov/rss/api";
+
+    window.pageData = {
+      ncbiBaseUrl: ncbiBaseUrl,
+      appBaseUrl: appBaseUrl,
+      appPage: appPage,
+      pageId: pageId,
+      pageTitle: "Lapidilactobacillus concavus",
+    }
+  </script>
+  <!-- no debug info -->
+  <meta content="1.1.12" name="ncbi_nwds_ver"/>
+  <meta content="yes" name="ncbi_nwds"/>
+  <script async="1" src="https://www.google-analytics.com/analytics.js">
+  </script>
+  <style id="fullscreen-toggler">
+   @media screen and (min-width: 600px) {
+  .ncbi-wide .main-content {
+    width: 100%;
+  }
+  .ncbi-wide .page-content {
+    width: 92% !important;
+    max-width: none;
+  }
+}
+  </style>
+  <style data-emotion="css-global" data-s="">
+  </style>
+  <style data-emotion="css" data-s="">
+  </style>
+  <script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/13.884592655f8e03c201b2.chunk.js?Q_CLIENTVERSION=1.84.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=www.ncbi.nlm.nih.gov">
+  </script>
+  <script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/6.4ae8a96ad0173facde55.chunk.js?Q_CLIENTVERSION=1.84.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=nlmenterprise">
+  </script>
+  <script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/1.e396ac4697f9a8b9d2aa.chunk.js?Q_CLIENTVERSION=1.84.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=nlmenterprise">
+  </script>
+ </head>
+ <body>
+  <a class="usa-skipnav" href="#maincontent">
+   Skip to main page content
+  </a>
+  <div data-ga-category="ncbi_header">
+   <!-- ========== BEGIN HEADER ========== -->
+   <section class="usa-banner" style="">
+    <div class="usa-accordion">
+     <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+       <img alt="U.S. flag" src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png"/>
+       <p>
+        An official website of the United States government
+       </p>
+       <button aria-controls="gov-banner-top" aria-expanded="false" class="usa-accordion-button usa-banner-button" data-ga-action="click_expand" data-ga-label="toggler">
+        <span class="usa-banner-button-text">
+         Here's how you know
+        </span>
+       </button>
+      </div>
+     </header>
+     <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner-top">
+      <div class="usa-banner-guidance-gov usa-width-one-half">
+       <img alt="Dot gov" class="usa-banner-icon usa-media_block-img" src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg"/>
+       <div class="usa-media_block-body">
+        <p>
+         <strong>
+          The .gov means it’s official.
+         </strong>
+         <br/>
+         Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+        </p>
+       </div>
+      </div>
+      <div class="usa-banner-guidance-ssl usa-width-one-half">
+       <img alt="Https" class="usa-banner-icon usa-media_block-img" src="https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg"/>
+       <div class="usa-media_block-body">
+        <p>
+         <strong>
+          The site is secure.
+         </strong>
+         <br/>
+         The
+         <strong>
+          https://
+         </strong>
+         ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="usa-overlay">
+   </div>
+   <header class="ncbi-header" data-section="Header" role="banner">
+    <div class="usa-grid">
+     <div class="usa-width-one-whole">
+      <div class="ncbi-header__logo">
+       <a aria-label="NCBI Logo" class="logo" data-ga-action="click_image" data-ga-label="NIH NLM Logo" href="https://www.ncbi.nlm.nih.gov/">
+        <img alt="NIH NLM Logo" src="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg"/>
+       </a>
+      </div>
+      <div class="ncbi-header__account">
+       <a class="usa-button header-button" data-ga-action="open_menu" data-ga-label="account_menu" href="https://account.ncbi.nlm.nih.gov?back_url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fdata-hub%2Ftaxonomy%2F287844%2F" id="account_login" style="">
+        Log in
+       </a>
+       <button aria-controls="account_popup" class="header-button" id="account_info" style="display:none">
+        <span aria-hidden="true" class="fa fa-user">
+        </span>
+        <span aria-hidden="true" class="username desktop-only" id="uname_short">
+        </span>
+        <span class="sr-only">
+         Show account info
+        </span>
+       </button>
+      </div>
+      <div class="ncbi-popup-anchor">
+       <div aria-hidden="true" class="ncbi-popup account-popup" id="account_popup">
+        <div class="ncbi-popup-head">
+         <button class="ncbi-close-button" data-ga-action="close_menu" data-ga-label="account_menu">
+          <span class="fa fa-times">
+          </span>
+          <span class="usa-sr-only">
+           Close
+          </span>
+         </button>
+         <h4>
+          Account
+         </h4>
+        </div>
+        <div class="account-user-info">
+         Logged in as:
+         <br/>
+         <b>
+          <span class="username" id="uname_long">
+           username
+          </span>
+         </b>
+        </div>
+        <div class="account-links">
+         <ul class="usa-unstyled-list">
+          <li>
+           <a class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_myncbi" href="https://www.ncbi.nlm.nih.gov/myncbi/" id="account_myncbi">
+            Dashboard
+           </a>
+          </li>
+          <li>
+           <a class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_pubs" href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" id="account_pubs">
+            Publications
+           </a>
+          </li>
+          <li>
+           <a class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_settings" href="https://www.ncbi.nlm.nih.gov/account/settings/" id="account_settings">
+            Account settings
+           </a>
+          </li>
+          <li>
+           <a class="set-base-url" data-ga-action="click_menu_item" data-ga-label="account_logout" href="https://www.ncbi.nlm.nih.gov/account/signout/?back_url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fdata-hub%2Ftaxonomy%2F287844%2F" id="account_logout">
+            Log out
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div aria-label="access keys" role="navigation">
+    <a accesskey="0" class="usa-sr-only" href="https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys" id="nws_header_accesskey_0" tabindex="-1">
+     Access keys
+    </a>
+    <a accesskey="1" class="usa-sr-only" href="https://www.ncbi.nlm.nih.gov" id="nws_header_accesskey_1" tabindex="-1">
+     NCBI Homepage
+    </a>
+    <a accesskey="2" class="set-base-url usa-sr-only" href="https://www.ncbi.nlm.nih.gov/myncbi/" id="nws_header_accesskey_2" tabindex="-1">
+     MyNCBI Homepage
+    </a>
+    <a accesskey="3" class="usa-sr-only" href="#maincontent" id="nws_header_accesskey_3" tabindex="-1">
+     Main Content
+    </a>
+    <a accesskey="4" class="usa-sr-only" href="#" id="nws_header_accesskey_4" tabindex="-1">
+     Main Navigation
+    </a>
+   </div>
+   <section data-section="Alerts">
+    <div class="ncbi-alerts-placeholder">
+    </div>
+   </section>
+   <!-- ========== END HEADER ========== -->
+  </div>
+  <div id="react_app">
+   <section data-section="app_bar">
+    <header class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-x0ulk0" id="AppBar">
+     <div class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-17mu58i" id="ToolBar">
+      <form action="https://www.ncbi.nlm.nih.gov/labs/gquery" method="get" style="width: 100%;">
+       <div class="MuiBox-root css-164emi1">
+        <div class="MuiBox-root css-54rz3s">
+         <svg aria-hidden="true" class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-18t5o0c" data-testid="SearchIcon" focusable="false" viewbox="0 0 24 24">
+          <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+          </path>
+         </svg>
+        </div>
+        <div class="MuiAutocomplete-root css-1l6di18">
+         <div class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-kxm6qc">
+          <div class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiAutocomplete-inputRoot css-q5sj26">
+           <input aria-autocomplete="list" aria-expanded="false" aria-invalid="false" autocapitalize="none" autocomplete="off" class="MuiInputBase-input MuiOutlinedInput-input MuiAutocomplete-input MuiAutocomplete-inputFocused css-1x5jdmq" id="search-suggestions" name="term" placeholder="Search NCBI ..." role="combobox" spellcheck="false" type="text" value=""/>
+           <fieldset aria-hidden="true" class="MuiOutlinedInput-notchedOutline css-igs3ac">
+            <legend class="css-hdw1oc">
+             <span class="notranslate">
+              ​
+             </span>
+            </legend>
+           </fieldset>
+          </div>
+         </div>
+        </div>
+       </div>
+       <input id="source" name="source" type="hidden" value="taxonomy"/>
+      </form>
+      <div class="MuiBox-root css-fmjaz9">
+       <button class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-b77egg" data-ga-action="click_button" data-ga-label="log_in" tabindex="0" type="button">
+        Log in
+        <span class="MuiTouchRipple-root css-w0pj6f">
+        </span>
+       </button>
+      </div>
+     </div>
+    </header>
+   </section>
+   <section class="alerts-section" data-section="alerts" id="alerts-section">
+    <div class="usa-grid alerts-section__alert" id="alerts-section__alert">
+     <div class="custom-alerts-placeholder">
+     </div>
+    </div>
+   </section>
+   <nav data-ga-category="local_nav">
+    <div class="MuiBox-root css-6yw4uz">
+     <ul>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="datasets_home" href="https://www.ncbi.nlm.nih.gov/datasets/" id="link_datasets_home">
+        Datasets
+       </a>
+      </li>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="taxonomy" href="/data-hub/taxonomy/tree/" id="current">
+        Taxonomy
+       </a>
+      </li>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="genome" href="/data-hub/genome/" id="link_genome">
+        Genome
+       </a>
+      </li>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="gene" href="/data-hub/gene/" id="link_gene">
+        Gene
+       </a>
+      </li>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="datasets_tools" href="https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/" id="link_datasets_tools">
+        Command-line tools
+       </a>
+      </li>
+      <li>
+       <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1ld99m9" data-ga-action="click_link" data-ga-label="datasets_docs" href="https://www.ncbi.nlm.nih.gov/datasets/docs/v2/" id="link_datasets_docs">
+        Documentation
+       </a>
+      </li>
+      <div class="MuiBox-root css-mngcgl">
+       <div class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-emyey9">
+        <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+         BETA
+        </span>
+       </div>
+      </div>
+     </ul>
+    </div>
+   </nav>
+   <main accesskey="3" class="main-content" id="maincontent">
+    <div class="page-content" id="page_content">
+     <section data-section="breadcrumbs">
+      <nav aria-label="breadcrumb" class="MuiTypography-root MuiTypography-body1 MuiBreadcrumbs-root css-g6a2f8">
+       <ol class="MuiBreadcrumbs-ol css-nhb8h9">
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="superkingdom" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="superkingdom" href="/data-hub/taxonomy/2">
+          Bacteria
+         </a>
+        </li>
+        <li aria-hidden="true" class="MuiBreadcrumbs-separator css-3mf706">
+         /
+        </li>
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="phylum" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="phylum" href="/data-hub/taxonomy/1239">
+          Bacillota
+         </a>
+        </li>
+        <li aria-hidden="true" class="MuiBreadcrumbs-separator css-3mf706">
+         /
+        </li>
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="class" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="class" href="/data-hub/taxonomy/91061">
+          Bacilli
+         </a>
+        </li>
+        <li aria-hidden="true" class="MuiBreadcrumbs-separator css-3mf706">
+         /
+        </li>
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="order" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="order" href="/data-hub/taxonomy/186826">
+          Lactobacillales
+         </a>
+        </li>
+        <li aria-hidden="true" class="MuiBreadcrumbs-separator css-3mf706">
+         /
+        </li>
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="family" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="family" href="/data-hub/taxonomy/33958">
+          Lactobacillaceae
+         </a>
+        </li>
+        <li aria-hidden="true" class="MuiBreadcrumbs-separator css-3mf706">
+         /
+        </li>
+        <li class="MuiBreadcrumbs-li">
+         <a aria-label="genus" class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="genus" href="/data-hub/taxonomy/2767884">
+          Lapidilactobacillus
+         </a>
+        </li>
+       </ol>
+      </nav>
+     </section>
+     <div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-skhynm">
+      <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8 css-1iqiv84">
+       <section data-section="taxonomy">
+        <div class="MuiBox-root css-1qm1lh">
+         <h1 class="MuiTypography-root MuiTypography-h2 css-9yc7wx">
+          <span data-tax-id="287844">
+           <i>
+            Lapidilactobacillus concavus
+           </i>
+          </span>
+         </h1>
+         <button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1wl4ek1" tabindex="0" type="button">
+          <svg aria-hidden="true" class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-18t5o0c" data-testid="StarOutlineIcon" focusable="false" viewbox="0 0 24 24">
+           <path d="m22 9.24-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z">
+           </path>
+          </svg>
+          <span class="MuiTouchRipple-root css-w0pj6f">
+          </span>
+         </button>
+         <h6 class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-gutterBottom css-6ax0sq" style="margin-right: 32px;">
+          <span data-item-id="taxonomy:287844" data-item-type="taxon">
+           <i>
+            Lapidilactobacillus concavus
+           </i>
+          </span>
+          is a species of  firmicute in the family
+          <span data-item-id="taxonomy:33958" data-item-type="taxon">
+           <i>
+            Lactobacillaceae
+           </i>
+          </span>
+          .
+         </h6>
+         <div>
+          <a class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-fk0d6z" data-ga-action="click_button_link" data-ga-label="browse_taxonomy" href="/data-hub/taxonomy/tree/?taxon=287844" tabindex="0">
+           Browse taxonomy
+           <span class="MuiTouchRipple-root css-w0pj6f">
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="MuiBox-root css-57cesj">
+         <dl>
+          <dt>
+           Current scientific name
+          </dt>
+          <dd>
+           <span data-tax-id="287844">
+            <i>
+             Lapidilactobacillus concavus
+            </i>
+           </span>
+          </dd>
+          <dt>
+           Taxonomic rank
+          </dt>
+          <dd>
+           species
+          </dd>
+          <dt>
+           NCBI Taxonomy ID
+          </dt>
+          <dd>
+           287844
+          </dd>
+         </dl>
+        </div>
+        <p class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+         For more details see
+         <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="ncbi taxonomy" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=287844&amp;mode=info">
+          NCBI Taxonomy
+         </a>
+        </p>
+        <p class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+         View the legacy
+         <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="genome page" href="https://www.ncbi.nlm.nih.gov/genome/?term=txid287844[orgn]">
+          Genome page
+         </a>
+        </p>
+       </section>
+       <section data-section="genomes">
+        <h2 class="MuiTypography-root MuiTypography-h3 css-jzvskl">
+         Genome
+        </h2>
+        <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_link" data-ga-label="browse_genomes" href="/data-hub/genome/?taxon=287844">
+         Browse all 2 genomes
+        </a>
+        <div class="MuiBox-root css-fpq7i7">
+         <div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-1tz8m30">
+          <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0" style="padding-bottom: 0px;">
+           <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+            Reference genome
+           </h3>
+           <p class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-41ei74" data-ga-action="click_link" data-ga-label="reference_genome" href="/data-hub/genome/GCF_007989025.1/">
+             ASM798902v1
+            </a>
+           </p>
+           <p class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            National Institute of Technology and Evaluation Biological Resource Center (2019). Strain: NBRC 106101.
+           </p>
+           <span class="MuiTypography-root MuiTypography-body1 css-i33a8u">
+            RefSeq
+           </span>
+           <span class="MuiTypography-root MuiTypography-body1 css-1wendbn">
+            :
+           </span>
+           <span class="MuiTypography-root MuiTypography-body1 css-1keavn6">
+            GCF_007989025.1
+           </span>
+          </div>
+          <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+           <button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1eaec4g" data-ga-action="click_button" data-ga-label="Download" tabindex="0" type="button">
+            Download
+            <span class="MuiTouchRipple-root css-w0pj6f">
+            </span>
+           </button>
+           <div class="MuiBox-root css-57cesj">
+            <dl>
+             <dt>
+              Genome size
+             </dt>
+             <dd>
+              <span style="float: right;">
+               1.9 Mb
+              </span>
+             </dd>
+             <dt>
+              Contig N50
+             </dt>
+             <dd>
+              <span style="float: right;">
+               39.5 kb
+              </span>
+             </dd>
+             <dt>
+              Genes
+             </dt>
+             <dd>
+              <span style="float: right;">
+               1,776
+              </span>
+             </dd>
+            </dl>
+           </div>
+           <p class="MuiTypography-root MuiTypography-body1 css-fxb543">
+            NCBI Prokaryotic Genome Annotation Pipeline (PGAP)
+           </p>
+          </div>
+          <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          </div>
+         </div>
+        </div>
+       </section>
+       <section data-section="entrez_links">
+        <h2 class="MuiTypography-root MuiTypography-h3 css-jzvskl">
+         Database links
+        </h2>
+        <div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-1tz8m30">
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           Nucleotide
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            All nucleotide sequences
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="nucleotide" href="https://www.ncbi.nlm.nih.gov/nuccore/?term=txid287844[organism:exp]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              434
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Genomic sequences
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="nucleotide_genomic" href="https://www.ncbi.nlm.nih.gov/nuccore/?term=txid287844[organism:exp] AND biomol_genomic[prop]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              433
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            mRNA sequences
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           Protein
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Protein sequences
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="protein" href="https://www.ncbi.nlm.nih.gov/protein/?term=txid287844[organism:exp]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              5,238
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Conserved domains
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            3D structures
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           GEO Datasets
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Datasets
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Series
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Samples
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Platforms
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           Sequence Read Archive (SRA)
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            All SRA experiments
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="sra" href="https://www.ncbi.nlm.nih.gov/sra/?term=txid287844[organism:exp]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              2
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            DNA
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="sra_dna" href="https://www.ncbi.nlm.nih.gov/sra/?term=txid287844[organism:exp] AND biomol_dna[prop]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              2
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            RNA
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           PopSet
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Phylogenetic studies
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            Population studies
+           </span>
+           <span style="float: right;">
+            <span class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-pat78d">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              0
+             </span>
+            </span>
+           </span>
+          </div>
+         </div>
+         <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-iol86l">
+          <h3 class="MuiTypography-root MuiTypography-h4 css-1jkdc64">
+           Projects and samples
+          </h3>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            BioProject
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="bioproject" href="https://www.ncbi.nlm.nih.gov/bioproject/?term=txid287844[organism:exp]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              3
+             </span>
+            </a>
+           </span>
+          </div>
+          <div class="MuiBox-root css-9c5sez">
+           <span class="MuiTypography-root MuiTypography-body1 css-1thjmlm">
+            BioSample
+           </span>
+           <span style="float: right;">
+            <a class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-1obnkw9" data-ga-action="click_count_link" data-ga-label="biosample" href="https://www.ncbi.nlm.nih.gov/biosample/?term=txid287844[organism:exp]">
+             <span class="MuiChip-label MuiChip-labelSmall css-1pjtbja">
+              4
+             </span>
+            </a>
+           </span>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+      <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 css-h3o6is">
+       <div class="MuiBox-root css-ps2045">
+        <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-5tar0d">
+         <section data-section="external_links">
+          <h3 class="MuiTypography-root MuiTypography-h3 css-1pqrqjm">
+           External links
+          </h3>
+          <p>
+           <a class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-1fr93yz" data-ga-action="click_external_link" data-ga-label="eol" href="https://eol.org/pages/976117">
+            Encyclopedia of Life
+           </a>
+          </p>
+         </section>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+  </div>
+  <div data-ga-category="ncbi_footer">
+   <!-- ========== BEGIN FOOTER ========== -->
+   <footer>
+    <section class="icon-section">
+     <div class="icon-section_header" id="icon-section-header">
+      Follow NCBI
+     </div>
+     <div class="grid-container container">
+      <div class="icon-section_container">
+       <a aria-label="Twitter" class="footer-icon" href="https://twitter.com/ncbi" id="footer_twitter">
+        <svg data-name="Layer 1" viewbox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+         <defs>
+          <style>
+           .cls-11 {
+                      fill: #737373;
+                    }
+          </style>
+         </defs>
+         <title>
+          Twitter
+         </title>
+         <path class="cls-11" d="M250.11,105.48c-7,3.14-13,3.25-19.27.14,8.12-4.86,8.49-8.27,11.43-17.46a78.8,78.8,0,0,1-25,9.55,39.35,39.35,0,0,0-67,35.85,111.6,111.6,0,0,1-81-41.08A39.37,39.37,0,0,0,81.47,145a39.08,39.08,0,0,1-17.8-4.92c0,.17,0,.33,0,.5a39.32,39.32,0,0,0,31.53,38.54,39.26,39.26,0,0,1-17.75.68,39.37,39.37,0,0,0,36.72,27.3A79.07,79.07,0,0,1,56,223.34,111.31,111.31,0,0,0,116.22,241c72.3,0,111.83-59.9,111.83-111.84,0-1.71,0-3.4-.1-5.09C235.62,118.54,244.84,113.37,250.11,105.48Z">
+         </path>
+        </svg>
+       </a>
+       <a aria-label="Facebook" class="footer-icon" href="https://www.facebook.com/ncbi.nlm" id="footer_facebook">
+        <svg data-name="Layer 1" viewbox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+         <title>
+          Facebook
+         </title>
+         <path class="cls-11" d="M210.5,115.12H171.74V97.82c0-8.14,5.39-10,9.19-10h27.14V52l-39.32-.12c-35.66,0-42.42,26.68-42.42,43.77v19.48H99.09v36.32h27.24v109h45.41v-109h35Z">
+         </path>
+        </svg>
+       </a>
+       <a aria-label="LinkedIn" class="footer-icon" href="https://www.linkedin.com/company/ncbinlm" id="footer_linkedin">
+        <svg data-name="Layer 1" viewbox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+         <title>
+          LinkedIn
+         </title>
+         <path class="cls-11" d="M101.64,243.37H57.79v-114h43.85Zm-22-131.54h-.26c-13.25,0-21.82-10.36-21.82-21.76,0-11.65,8.84-21.15,22.33-21.15S101.7,78.72,102,90.38C102,101.77,93.4,111.83,79.63,111.83Zm100.93,52.61A17.54,17.54,0,0,0,163,182v61.39H119.18s.51-105.23,0-114H163v13a54.33,54.33,0,0,1,34.54-12.66c26,0,44.39,18.8,44.39,55.29v58.35H198.1V182A17.54,17.54,0,0,0,180.56,164.44Z">
+         </path>
+        </svg>
+       </a>
+       <a aria-label="GitHub" class="footer-icon" href="https://github.com/ncbi" id="footer_github">
+        <svg data-name="Layer 1" viewbox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+         <defs>
+          <style>
+           .cls-11,
+                    .cls-12 {
+                      fill: #737373;
+                    }
+
+                    .cls-11 {
+                      fill-rule: evenodd;
+                    }
+          </style>
+         </defs>
+         <title>
+          GitHub
+         </title>
+         <path class="cls-11" d="M151.36,47.28a105.76,105.76,0,0,0-33.43,206.1c5.28,1,7.22-2.3,7.22-5.09,0-2.52-.09-10.85-.14-19.69-29.42,6.4-35.63-12.48-35.63-12.48-4.81-12.22-11.74-15.47-11.74-15.47-9.59-6.56.73-6.43.73-6.43,10.61.75,16.21,10.9,16.21,10.9,9.43,16.17,24.73,11.49,30.77,8.79,1-6.83,3.69-11.5,6.71-14.14C108.57,197.1,83.88,188,83.88,147.51a40.92,40.92,0,0,1,10.9-28.39c-1.1-2.66-4.72-13.42,1-28,0,0,8.88-2.84,29.09,10.84a100.26,100.26,0,0,1,53,0C198,88.3,206.9,91.14,206.9,91.14c5.76,14.56,2.14,25.32,1,28a40.87,40.87,0,0,1,10.89,28.39c0,40.62-24.74,49.56-48.29,52.18,3.79,3.28,7.17,9.71,7.17,19.58,0,14.15-.12,25.54-.12,29,0,2.82,1.9,6.11,7.26,5.07A105.76,105.76,0,0,0,151.36,47.28Z">
+         </path>
+         <path class="cls-12" d="M85.66,199.12c-.23.52-1.06.68-1.81.32s-1.2-1.06-.95-1.59,1.06-.69,1.82-.33,1.21,1.07.94,1.6Zm-1.3-1">
+         </path>
+         <path class="cls-12" d="M90,203.89c-.51.47-1.49.25-2.16-.49a1.61,1.61,0,0,1-.31-2.19c.52-.47,1.47-.25,2.17.49s.82,1.72.3,2.19Zm-1-1.08">
+         </path>
+         <path class="cls-12" d="M94.12,210c-.65.46-1.71,0-2.37-.91s-.64-2.07,0-2.52,1.7,0,2.36.89.65,2.08,0,2.54Zm0,0">
+         </path>
+         <path class="cls-12" d="M99.83,215.87c-.58.64-1.82.47-2.72-.41s-1.18-2.06-.6-2.7,1.83-.46,2.74.41,1.2,2.07.58,2.7Zm0,0">
+         </path>
+         <path class="cls-12" d="M107.71,219.29c-.26.82-1.45,1.2-2.64.85s-2-1.34-1.74-2.17,1.44-1.23,2.65-.85,2,1.32,1.73,2.17Zm0,0">
+         </path>
+         <path class="cls-12" d="M116.36,219.92c0,.87-1,1.59-2.24,1.61s-2.29-.68-2.3-1.54,1-1.59,2.26-1.61,2.28.67,2.28,1.54Zm0,0">
+         </path>
+         <path class="cls-12" d="M124.42,218.55c.15.85-.73,1.72-2,1.95s-2.37-.3-2.52-1.14.73-1.75,2-2,2.37.29,2.53,1.16Zm0,0">
+         </path>
+        </svg>
+       </a>
+       <a aria-label="Blog" class="footer-icon" href="https://ncbiinsights.ncbi.nlm.nih.gov/" id="footer_blog">
+        <svg data-name="Layer 1" id="Layer_1" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+         <defs>
+          <style>
+           .cls-1{fill:#737373;}
+          </style>
+         </defs>
+         <path class="cls-1" d="M14,30a4,4,0,1,1-4-4,4,4,0,0,1,4,4Zm11,3A19,19,0,0,0,7.05,15a1,1,0,0,0-1,1v3a1,1,0,0,0,.93,1A14,14,0,0,1,20,33.07,1,1,0,0,0,21,34h3a1,1,0,0,0,1-1Zm9,0A28,28,0,0,0,7,6,1,1,0,0,0,6,7v3a1,1,0,0,0,1,1A23,23,0,0,1,29,33a1,1,0,0,0,1,1h3A1,1,0,0,0,34,33Z">
+         </path>
+        </svg>
+       </a>
+      </div>
+     </div>
+    </section>
+    <section class="container-fluid bg-primary">
+     <div class="container pt-5">
+      <div class="row mt-3">
+       <div class="col-lg-3 col-12">
+        <p>
+         <a class="text-white" href="https://www.nlm.nih.gov/socialmedia/index.html">
+          Connect with NLM
+         </a>
+        </p>
+        <ul class="list-inline social_media">
+         <li class="list-inline-item">
+          <a aria-label="Twitter" href="https://twitter.com/NLM_NIH" rel="noopener noreferrer" target="_blank">
+           <svg style="enable-background:new 0 0 249 249;" version="1.1" viewbox="0 0 249 249" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+            <style type="text/css">
+             .st20 {
+                          fill: #FFFFFF;
+                        }
+
+                        .st30 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+            </style>
+            <title>
+             SM-Twitter
+            </title>
+            <g>
+             <g>
+              <g>
+               <path class="st20" d="M192.9,88.1c-5,2.2-9.2,2.3-13.6,0.1c5.7-3.4,6-5.8,8.1-12.3c-5.4,3.2-11.4,5.5-17.6,6.7
+                                                c-10.5-11.2-28.1-11.7-39.2-1.2c-7.2,6.8-10.2,16.9-8,26.5c-22.3-1.1-43.1-11.7-57.2-29C58,91.6,61.8,107.9,74,116
+                                                c-4.4-0.1-8.7-1.3-12.6-3.4c0,0.1,0,0.2,0,0.4c0,13.2,9.3,24.6,22.3,27.2c-4.1,1.1-8.4,1.3-12.5,0.5c3.6,11.3,14,19,25.9,19.3
+                                                c-11.6,9.1-26.4,13.2-41.1,11.5c12.7,8.1,27.4,12.5,42.5,12.5c51,0,78.9-42.2,78.9-78.9c0-1.2,0-2.4-0.1-3.6
+                                                C182.7,97.4,189.2,93.7,192.9,88.1z">
+               </path>
+              </g>
+             </g>
+             <circle class="st30" cx="124.4" cy="128.8" r="108.2">
+             </circle>
+            </g>
+           </svg>
+          </a>
+         </li>
+         <li class="list-inline-item">
+          <a aria-label="Facebook" href="https://www.facebook.com/nationallibraryofmedicine" rel="noopener noreferrer" target="_blank">
+           <svg style="enable-background:new 0 0 249 249;" version="1.1" viewbox="0 0 249 249" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+            <style type="text/css">
+             .st10 {
+                          fill: #FFFFFF;
+                        }
+
+                        .st110 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+            </style>
+            <title>
+             SM-Facebook
+            </title>
+            <g>
+             <g>
+              <path class="st10" d="M159,99.1h-24V88.4c0-5,3.3-6.2,5.7-6.2h16.8V60l-24.4-0.1c-22.1,0-26.2,16.5-26.2,27.1v12.1H90v22.5h16.9
+                                                      v67.5H135v-67.5h21.7L159,99.1z">
+              </path>
+             </g>
+            </g>
+            <circle class="st110" cx="123.6" cy="123.2" r="108.2">
+            </circle>
+           </svg>
+          </a>
+         </li>
+         <li class="list-inline-item">
+          <a aria-label="Youtube" href="https://www.youtube.com/user/NLMNIH" rel="noopener noreferrer" target="_blank">
+           <svg style="enable-background:new 0 0 249 249;" version="1.1" viewbox="0 0 249 249" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+            <title>
+             SM-Youtube
+            </title>
+            <style type="text/css">
+             .st4 {
+                          fill: none;
+                          stroke: #FFFFFF;
+                          stroke-width: 8;
+                          stroke-miterlimit: 10;
+                        }
+
+                        .st5 {
+                          fill: #FFFFFF;
+                        }
+            </style>
+            <circle class="st4" cx="124.2" cy="123.4" r="108.2">
+            </circle>
+            <g transform="translate(0,-952.36218)">
+             <path class="st5" d="M88.4,1037.4c-10.4,0-18.7,8.3-18.7,18.7v40.1c0,10.4,8.3,18.7,18.7,18.7h72.1c10.4,0,18.7-8.3,18.7-18.7
+                                            v-40.1c0-10.4-8.3-18.7-18.7-18.7H88.4z M115.2,1058.8l29.4,17.4l-29.4,17.4V1058.8z">
+             </path>
+            </g>
+           </svg>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="col-lg-3 col-12">
+        <p class="address_footer text-white">
+         National Library of Medicine
+         <br/>
+         <a class="text-white" href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" rel="noopener noreferrer" target="_blank">
+          8600 Rockville Pike
+          <br/>
+          Bethesda, MD 20894
+         </a>
+        </p>
+       </div>
+       <div class="col-lg-3 col-12 centered-lg">
+        <p>
+         <a class="text-white" href="https://www.nlm.nih.gov/web_policies.html">
+          Web Policies
+         </a>
+         <br/>
+         <a class="text-white" href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">
+          FOIA
+         </a>
+         <br/>
+         <a class="text-white" href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" id="vdp">
+          HHS Vulnerability Disclosure
+         </a>
+        </p>
+       </div>
+       <div class="col-lg-3 col-12 centered-lg">
+        <p>
+         <a class="supportLink text-white" data-pinger-pagename-param="true" href="https://support.nlm.nih.gov/?pagename=gdh-data-hub%3Ataxonomy%3Ataxonomy_record%3Afirmicutes">
+          Help
+         </a>
+         <br/>
+         <a class="text-white" href="https://www.nlm.nih.gov/accessibility.html">
+          Accessibility
+         </a>
+         <br/>
+         <a class="text-white" href="https://www.nlm.nih.gov/careers/careers.html">
+          Careers
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-lg-12 centered-lg">
+        <nav class="bottom-links">
+         <ul class="mt-3">
+          <li>
+           <a class="text-white" href="//www.nlm.nih.gov/">
+            NLM
+           </a>
+          </li>
+          <li>
+           <a class="text-white" href="https://www.nih.gov/">
+            NIH
+           </a>
+          </li>
+          <li>
+           <a class="text-white" href="https://www.hhs.gov/">
+            HHS
+           </a>
+          </li>
+          <li>
+           <a class="text-white" href="https://www.usa.gov/">
+            USA.gov
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </section>
+   </footer>
+   <!-- ========== END FOOTER ========== -->
+   <!-- javascript to inject NWDS meta tags. Note: value of nwds_version is updated by "npm version" command -->
+   <script type="text/javascript">
+    var nwds_version = "1.1.12";
+
+    var meta_nwds_ver = document.createElement('meta');
+    meta_nwds_ver.name = 'ncbi_nwds_ver';
+    meta_nwds_ver.content = nwds_version;
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds_ver);
+
+    var meta_nwds = document.createElement('meta');
+    meta_nwds.name = 'ncbi_nwds';
+    meta_nwds.content = 'yes';
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds);
+
+	var alertsUrl = "/core/alerts/alerts.js";
+	if (typeof ncbiBaseUrl !== 'undefined') {
+		alertsUrl = ncbiBaseUrl + alertsUrl;
+	}
+   </script>
+  </div>
+  <script src="https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js" type="text/javascript">
+  </script>
+  <div id="ZN_dikYWqsjiUWN0Q5">
+  </div>
+  <!-- JavaScript -->
+  <script crossorigin="anonymous" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" src="https://code.jquery.com/jquery-3.5.0.min.js">
+  </script>
+  <script src="/data-hub/static/nwds/js/header.js">
+  </script>
+  <!-- importing ncbi_standards.js -->
+  <script src="/data-hub/static/bundles/ncbi_standards.9253ebcb54727ae7358a.js">
+  </script>
+  <!-- end JavaScript -->
+  <script type="text/javascript">
+   const pageData = window.pageData || {};
+    pageData['title'] = "Lapidilactobacillus concavus";
+    pageData["ncbiDb"] = "taxonomy";
+    pageData["taxId"] = "287844";
+    pageData["topic"] = {"summary": {"id": {"db": "taxonomy", "uid": "287844"}, "kind": "firmicutes", "title": "Lapidilactobacillus concavus", "description": "a species of  firmicute in the family Lactobacillaceae."}, "names": {"scientific_name": ["Lapidilactobacillus concavus"], "equivalent_name": ["Lactobacillus vibrioforme"], "synonym": ["Lactobacillus concavus"], "authority": ["Lactobacillus concavus Tong and Dong 2005", "Lapidilactobacillus concavus (Tong and Dong 2005) Zheng et al. 2020"]}, "identifiers": {"tax_id": "287844"}, "attributes": {"scientific_name": "Lapidilactobacillus concavus", "tax_group": "firmicutes", "tax_rank": "species", "tax_higher_rank": "genus", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239", "91061", "186826", "33958", "2767884"], "tax_abbr_lineage": ["2", "1239", "91061", "186826", "33958", "2767884"], "tax_parent": "2767884", "tax_children": ["1423735"], "tax_specified": true, "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "976117", "legacy_genome_id": "41174"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:287844\"><i>Lapidilactobacillus concavus</i></span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:287844\"><i>Lapidilactobacillus concavus</i></span> is a species of  firmicute in the family <span data-item-type=\"taxon\" data-item-id=\"taxonomy:33958\"><i>Lactobacillaceae</i></span>."}}
+    pageData["lineage"] = [{"summary": {"id": {"db": "taxonomy", "uid": "2"}, "title": "Bacteria", "subtitle": "eubacteria", "description": "a superkingdom."}, "names": {"scientific_name": ["Bacteria"], "blast_name": ["bacteria"], "in-part": ["Monera", "Procaryotae", "Prokaryotae", "Prokaryota", "prokaryote", "prokaryotes"], "common_name": ["eubacteria"]}, "identifiers": {"tax_id": "2"}, "attributes": {"scientific_name": "Bacteria", "common_name": "eubacteria", "tax_rank": "superkingdom", "tax_full_lineage": ["1", "131567"], "tax_parent": "131567", "tax_children": ["1224", "2323", "29547", "32066", "40117", "48479", "49928", "57723", "67818", "68297", "68525", "74152", "200783", "200918", "200930", "200938", "200940", "203691", "508458", "1783257", "1783270", "1783272", "1802340", "1930617", "2138240", "2498710", "2698788", "2818505", "2954143", "3018035", "3031715"], "tax_abbr_children": ["976", "1090", "1117", "1224", "1239", "1297", "28221", "29454", "29547", "32066", "40117", "42688", "48381", "53023", "57723", "62680", "65842", "67810", "67812", "67814", "67817", "67818", "67819", "67820", "68297", "74015", "74152", "74201", "95818", "98508", "133920", "134625", "142182", "142187", "200295", "200783", "200795", "200918", "200930", "200938", "200940", "201174", "203682", "203691", "204428", "221216", "221235", "256845", "265317", "330923", "344734", "363464", "399551", "422282", "439486", "456828", "508458", "544448", "640293", "1047082", "1052197", "1052815", "1104542", "1130266", "1134404", "1154676", "1167878", "1293497", "1379697", "1383058", "1448051", "1618330", "1618338", "1618339", "1618340", "1619053", "1654035", "1662329", "1703755", "1704031", "1729712", "1752708", "1752716", "1752717", "1752718", "1752719", "1752720", "1752721", "1752722", "1752723", "1752724", "1752725", "1752726", "1752727", "1752728", "1752729", "1752730", "1752731", "1752732", "1752733", "1752734", "1752735", "1752736", "1752737", "1752738", "1752739", "1752740", "1752741", "1763546", "1798710", "1802339", "1817796", "1817797", "1817798", "1817799", "1817800", "1817801", "1817802", "1817803", "1817804", "1817805", "1817806", "1817807", "1817808", "1817809", "1817810", "1817811", "1817812", "1817898", "1817899", "1817900", "1817901", "1817902", "1817903", "1817904", "1817905", "1817906", "1817907", "1817908", "1817909", "1817910", "1817911", "1817912", "1817913", "1817914", "1817915", "1817916", "1817917", "1817918", "1817919", "1817920", "1817921", "1817922", "1817923", "1817924", "1817925", "1817926", "1819803", "1853220", "1855361", "1870822", "1930617", "1936987", "1940406", "1940407", "2013583", "2052312", "2052329", "2093358", "2093364", "2109258", "2138240", "2211225", "2301208", "2419830", "2497643", "2498705", "2528254", "2576005", "2698788", "2703810", "2715733", "2720779", "2731992", "2750082", "2767197", "2798536", "2798537", "2802647", "2818505", "2840508", "2840509", "2840510", "2840511", "2840512", "2840513", "2840514", "2855607", "2954143", "2979319", "2986052", "3014276", "3018035", "3027942", "3031715"], "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "55560481", "gbif_id": "3", "inaturalist_id": "67333", "itis_id": "50", "wikipedia_page_id": "Bacteria", "legacy_genome_id": "16284"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:2\"><i>Bacteria</i></span>", "definition": "Eubacteria (<span data-item-type=\"taxon\" data-item-id=\"taxonomy:2\"><i>Bacteria</i></span>) is a superkingdom."}}, {"summary": {"id": {"db": "taxonomy", "uid": "1239"}, "kind": "bacteria", "title": "Bacillota", "subtitle": "low GC Gram+", "description": "a phylum of  bacteria in the superkingdom Bacteria (eubacteria)."}, "names": {"scientific_name": ["Bacillota"], "equivalent_name": ["Firmicutes"], "synonym": ["Bacillaeota", "Bacillota corrig. Gibbons and Murray 2021", "Bacillus/Clostridium group", "clostridial firmicutes", "Clostridium group firmicutes", "Firmicuteota", "\"Firmicutes\" corrig. Gibbons and Murray 1978 (Approved Lists 1980)", "Low G+C firmicutes"], "authority": ["\"Bacillaeota\" Oren et al. 2015", "\"Firmicuteota\" Panda et al. 2022"], "blast_name": ["firmicutes"], "common_name": ["low GC Gram+", "low G+C Gram-positive bacteria"]}, "identifiers": {"tax_id": "1239"}, "attributes": {"scientific_name": "Bacillota", "common_name": "low GC Gram+", "tax_group": "bacteria", "tax_rank": "phylum", "tax_higher_rank": "superkingdom", "tax_full_lineage": ["1", "131567", "2", "1783272"], "tax_abbr_lineage": ["2"], "tax_parent": "1783272", "tax_children": ["33974", "47928", "84086", "91061", "186801", "455491", "526524", "909932", "1676648", "1737404", "1879010", "2787153", "2840488", "2963097"], "tax_abbr_children": ["91061", "186801", "455491", "526524", "909932", "1501224", "1676648", "1737404", "1930845", "1980693", "2787153", "2820263", "2840539", "2840540", "2840541", "2840542", "2840543", "2963097"], "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "7739", "gbif_id": "87", "inaturalist_id": "151853", "itis_id": "956114", "wikipedia_page_id": "Bacillota", "legacy_genome_id": "16288"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:1239\"><i>Bacillota</i></span>", "definition": "Low gc gram+ (<span data-item-type=\"taxon\" data-item-id=\"taxonomy:1239\"><i>Bacillota</i></span>) is a phylum of  bacteria in the superkingdom <span data-item-type=\"taxon\" data-item-id=\"taxonomy:2\"><i>Bacteria</i></span> (eubacteria)."}}, {"summary": {"id": {"db": "taxonomy", "uid": "91061"}, "kind": "firmicutes", "title": "Bacilli", "description": "a class of  firmicute in the phylum Bacillota (low GC Gram+)."}, "names": {"scientific_name": ["Bacilli"], "synonym": ["Bacillus/Lactobacillus/Streptococcus group", "Firmibacteria"], "authority": ["Bacilli Ludwig et al. 2010", "Firmibacteria Murray 1988"]}, "identifiers": {"tax_id": "91061"}, "attributes": {"scientific_name": "Bacilli", "tax_group": "firmicutes", "tax_rank": "class", "tax_higher_rank": "phylum", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239"], "tax_abbr_lineage": ["2", "1239"], "tax_parent": "1239", "tax_children": ["1385", "112452", "186826", "224208", "1526609"], "tax_abbr_children": ["1385", "186826", "2721098", "2840544", "2840545", "2840546", "2840547", "2840548", "2840549", "2840550", "2840551"], "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "7766", "gbif_id": "303", "inaturalist_id": "151984", "itis_id": "956133", "wikipedia_page_id": "Bacilli"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:91061\"><i>Bacilli</i></span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:91061\"><i>Bacilli</i></span> is a class of  firmicute in the phylum <span data-item-type=\"taxon\" data-item-id=\"taxonomy:1239\"><i>Bacillota</i></span> (low GC Gram+)."}}, {"summary": {"id": {"db": "taxonomy", "uid": "186826"}, "kind": "firmicutes", "title": "Lactobacillales", "description": "an order of  firmicute in the class Bacilli."}, "names": {"scientific_name": ["Lactobacillales"], "authority": ["Lactobacillales Ludwig et al. 2010"]}, "identifiers": {"tax_id": "186826"}, "attributes": {"scientific_name": "Lactobacillales", "tax_group": "firmicutes", "tax_rank": "order", "tax_higher_rank": "class", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239", "91061"], "tax_abbr_lineage": ["2", "1239", "91061"], "tax_parent": "91061", "tax_children": ["1300", "33958", "81852", "186827", "186828", "186830", "263855", "339166"], "tax_abbr_children": ["1300", "29402", "33958", "81852", "137460", "186827", "186828", "1246645"], "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "7767", "gbif_id": "577", "inaturalist_id": "152314", "itis_id": "956239", "wikipedia_page_id": "Lactic_acid_bacteria"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:186826\"><i>Lactobacillales</i></span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:186826\"><i>Lactobacillales</i></span> is an order of  firmicute in the class <span data-item-type=\"taxon\" data-item-id=\"taxonomy:91061\"><i>Bacilli</i></span>."}}, {"summary": {"id": {"db": "taxonomy", "uid": "33958"}, "kind": "firmicutes", "image": {"src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lactobacillus_sp_01.png", "width": 625, "height": 498, "license_type": "PD", "source": "Wikipedia", "source_link": "https://www.wikipedia.org/wiki/File:Lactobacillus_sp_01.png"}, "title": "Lactobacillaceae", "description": "a family of  firmicute in the order Lactobacillales."}, "names": {"scientific_name": ["Lactobacillaceae"], "synonym": ["Leuconostocaceae", "Leuconostoc group"], "authority": ["Lactobacillaceae Winslow et al. 1917 (Approved Lists 1980) emend. Zheng et al. 2020", "Leuconostocaceae Schleifer 2010"]}, "identifiers": {"tax_id": "33958"}, "attributes": {"scientific_name": "Lactobacillaceae", "tax_group": "firmicutes", "tax_rank": "family", "tax_higher_rank": "order", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239", "91061", "186826"], "tax_abbr_lineage": ["2", "1239", "91061", "186826"], "tax_parent": "186826", "tax_children": ["1243", "1253", "1578", "46254", "46255", "81853", "218287", "559173", "1697027", "2742598", "2759736", "2767842", "2767874", "2767875", "2767876", "2767877", "2767878", "2767879", "2767880", "2767881", "2767882", "2767883", "2767884", "2767885", "2767886", "2767887", "2767888", "2767889", "2767890", "2767891", "2767892", "2767893", "2840489", "2930384", "2978367"], "tax_abbr_children": ["1243", "1253", "1578", "46254", "46255", "559173", "1697027", "2742598", "2759736", "2767842", "2767874", "2767875", "2767876", "2767877", "2767878", "2767879", "2767880", "2767881", "2767882", "2767883", "2767884", "2767885", "2767886", "2767887", "2767888", "2767889", "2767890", "2767891", "2767892", "2767893", "2840556", "2930384", "2978367"], "genetic_code": "11", "genetic_code_mito": "0", "eol_page_id": "7772", "gbif_id": "4711", "inaturalist_id": "123340", "itis_id": "438", "wikipedia_page_id": "Lactobacillaceae"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:33958\"><i>Lactobacillaceae</i></span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:33958\"><i>Lactobacillaceae</i></span> is a family of  firmicute in the order <span data-item-type=\"taxon\" data-item-id=\"taxonomy:186826\"><i>Lactobacillales</i></span>."}}, {"summary": {"id": {"db": "taxonomy", "uid": "2767884"}, "kind": "firmicutes", "title": "Lapidilactobacillus", "description": "a genus of  firmicute in the family Lactobacillaceae."}, "names": {"scientific_name": ["Lapidilactobacillus"], "authority": ["Lapidilactobacillus Zheng et al. 2020"]}, "identifiers": {"tax_id": "2767884"}, "attributes": {"scientific_name": "Lapidilactobacillus", "tax_group": "firmicutes", "tax_rank": "genus", "tax_higher_rank": "family", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239", "91061", "186826", "33958"], "tax_abbr_lineage": ["2", "1239", "91061", "186826", "33958"], "tax_parent": "33958", "tax_children": ["51664", "287844", "2485998", "2485999", "2486000", "2486001", "2486002", "2950371"], "tax_abbr_children": ["51664", "287844", "2485998", "2485999", "2486000", "2486001", "2486002", "2950371"], "genetic_code": "11", "genetic_code_mito": "0"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:2767884\"><i>Lapidilactobacillus</i></span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:2767884\"><i>Lapidilactobacillus</i></span> is a genus of  firmicute in the family <span data-item-type=\"taxon\" data-item-id=\"taxonomy:33958\"><i>Lactobacillaceae</i></span>."}}]
+    pageData["children"] = [{"summary": {"id": {"db": "taxonomy", "uid": "1423735"}, "kind": "firmicutes", "title": "Lapidilactobacillus concavus DSM 17758", "description": "a strain of Lapidilactobacillus concavus"}, "names": {"scientific_name": ["Lapidilactobacillus concavus DSM 17758"], "synonym": ["Lactobacillus concavus DSM 17758"]}, "identifiers": {"tax_id": "1423735"}, "attributes": {"scientific_name": "Lapidilactobacillus concavus DSM 17758", "tax_group": "firmicutes", "tax_rank": "strain", "tax_higher_rank": "species", "tax_full_lineage": ["1", "131567", "2", "1783272", "1239", "91061", "186826", "33958", "2767884", "287844"], "tax_abbr_lineage": ["2", "1239", "91061", "186826", "33958", "2767884", "287844"], "tax_parent": "287844", "tax_species_id": "287844", "tax_species_name": "Lapidilactobacillus concavus", "tax_below_species": true, "genetic_code": "11", "genetic_code_mito": "0"}, "content": {"title": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:1423735\"><i>Lapidilactobacillus concavus</i> DSM 17758</span>", "definition": "<span data-item-type=\"taxon\" data-item-id=\"taxonomy:1423735\"><i>Lapidilactobacillus concavus dsm</i> 17758</span> is a strain of <span data-item-type=\"taxon\" data-item-id=\"taxonomy:287844\"><i>Lapidilactobacillus concavus</i></span>"}}]
+    pageData.errorSeverity = "";
+    pageData.errorMessage = "";
+    window.pageData = pageData;
+  </script>
+  <script src="/data-hub/static/bundles/vendor.55d0f75613f518e4bcc8.js">
+  </script>
+  <script src="/data-hub/static/bundles/taxonomy_record.8f4e60b72c066af07680.js">
+  </script>
+  <script type="text/javascript">
+   jQuery.getScript(alertsUrl, function () {
+        galert(['.custom-alerts-placeholder', 'body > *:nth-child(1)']);
+  });
+  </script>
+  <script src="https://zndikYWqsjiUWN0Q5-nlmenterprise.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_dikYWqsjiUWN0Q5" type="text/javascript">
+  </script>
+  <script defer="" src="https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=1.84.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=nlmenterprise">
+  </script>
+  <script defer="" src="https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js?Q_CLIENTVERSION=1.84.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=nlmenterprise">
+  </script>
+  <style type="text/css">
+   .QSIFeedbackButton div,.QSIFeedbackButton dl,.QSIFeedbackButton dt,.QSIFeedbackButton dd,.QSIFeedbackButton ul,.QSIFeedbackButton ol,.QSIFeedbackButton li,.QSIFeedbackButton h1,.QSIFeedbackButton h2,.QSIFeedbackButton h3,.QSIFeedbackButton h4,.QSIFeedbackButton h5,.QSIFeedbackButton h6,.QSIFeedbackButton span,.QSIFeedbackButton pre,.QSIFeedbackButton form,.QSIFeedbackButton fieldset,.QSIFeedbackButton textarea,.QSIFeedbackButton p,.QSIFeedbackButton blockquote,.QSIFeedbackButton tr,.QSIFeedbackButton th,.QSIFeedbackButton td{ margin: 0; padding: 0;background-color: transparent; border: 0; font-size: 12px; line-height: normal; vertical-align:baseline; box-shadow: none; }.QSIFeedbackButton img{ height: auto; width: auto; margin: 0; padding: 0 }.QSIFeedbackButton ul,.QSIFeedbackButton ol{ margin: 12px 0; padding-left: 40px; }.QSIFeedbackButton ul li{ list-style-type: disc; }.QSIFeedbackButton ol li{ list-style-type: decimal; }.QSIFeedbackButton .scrollable{ -webkit-overflow-scrolling: touch; }.QSIFeedbackButton table{ border-collapse: collapse; border-spacing: 0; }.QSIFeedbackButton table td{ padding: 2px; }.QSIFeedbackButton iframe{ max-height: none; }.QSIFeedbackButton *{ box-sizing: content-box; }
+  </style>
+  <div class="QSIFeedbackButton" style="position: fixed; visibility: hidden; inset: 0px; display: flex; flex-direction: column; justify-content: flex-end; align-items: flex-start; margin: 0px; padding: 0px; z-index: 2000000000;">
+   <button aria-controls="QSIFeedbackButton-target-container" aria-expanded="false" aria-label="Tell us what you think!" id="QSIFeedbackButton-btn" role="button" style="position: fixed; visibility: visible; cursor: pointer; border: none; background-color: transparent; padding: 0px; margin: 0px; bottom: 57px; right: -1px; width: 52px; transition: all 0.5s ease 0s;">
+    <img alt="Tell us what you think!" src="https://iad1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_3xWqwNkIHc7cA0S" style="max-width: 110px; max-height: 110px; display: block;"/>
+   </button>
+  </div>
+  <div aria-hidden="true" aria-labelledby="QSIFeedbackButton-btn" class="QSIFeedbackButton" id="QSIFeedbackButton-target-container" role="dialog" style="position: fixed; overflow: hidden; color: rgb(0, 0, 0); background-color: rgb(237, 237, 237); border-top: 2px solid rgb(166, 166, 166); border-right: none; border-bottom: 2px solid rgb(166, 166, 166); border-left: 2px solid rgb(166, 166, 166); border-image: initial; box-sizing: border-box; transition: all 0.5s ease 0s; margin: 0px; padding: 0px; z-index: 2000000001; height: 50%; border-radius: 2px 0px 0px 2px; max-width: 400px; width: 100vw; left: 100%; bottom: 0px;">
+   <div id="QSIFeedbackButton-close-btn-container" style="background-color: transparent; padding-bottom: 10px; right: 10px; top: 10px; position: absolute; display: flex; justify-content: flex-end;">
+    <button id="QSIFeedbackButton-close-btn" role="button" style="cursor: pointer; border: 0px; padding: 0px; background-color: transparent; z-index: 2000000001; margin: 0px;" tabindex="-1">
+     <img alt="Close" src="https://siteintercept.qualtrics.com/WRSiteInterceptEngine/../WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png" style="height: 17px; width: 17px;"/>
+    </button>
+    <div id="QSIFeedbackButton-close-btn-background" style="position: absolute; width: 28px; height: 28px; border-radius: 14px; top: -5px; right: -5px; background-color: rgb(255, 255, 255); opacity: 0.5;">
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

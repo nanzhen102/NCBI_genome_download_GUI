@@ -1,12 +1,12 @@
 #!/usr/bin/env python
-# Aim: obtain the latest info of each species of the family Lactobacillaceae from NCBI
+# Aim: obtain the latest info of the reference genome of each species of the family Lactobacillaceae from NCBI
 # Written by: Nanzhen   nanzhen.qiao@gmail.com
 
 #!/usr/bin/env python
 # Aim: obtain the latest species info of the family Lactobacillaceae from NCBI
 # Written by: Nanzhen   nanzhen.qiao@gmail.com
 
-import requests, time, csv
+import requests, time, csv, re
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
@@ -14,7 +14,7 @@ from selenium import webdriver
 driver = webdriver.Chrome("/Users/nanzhen/Documents/GitHub/NCBI_genome_download_GUI/chromedriver")
 
 # Navigate to the URL with dynamic content
-species_url = 'https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/2486002/' 
+species_url = 'https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/287844' 
 driver.get(species_url) 
 
 # Wait for the dynamic content to load
@@ -29,29 +29,21 @@ driver.quit()
 # Parse the HTML content using BeautifulSoup
 soup = BeautifulSoup(html_content, 'html.parser')
 
-# Find all <a> elements with aria-label="genus"
-species_links = soup.find_all('a', {'aria-label': 'species'})
+# Find if there is a Refrence genome. If so, extract GCF
+GCF_id = soup.find('a', {'class': 'MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-41ei74', 'href': True})
 
-target_element = soup.find('a', {'class': 'MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-41ei74', 'href': True})
-
-
-# Extract the data-ga-label and href attributes of each link
-species_data = []
-for species in species_links:
-    species_name = species.get('data-ga-label')
-    tax_id = species.find('span', {'data-tax-id': True}).get('data-tax-id')
-    species_url = f'https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/{tax_id}'
-    # print(genus_name, tax_id)
-    species_data.append((species_name, tax_id, species_url))
-print(species_data)
-
-# write the data to a csv file
-with open('species_data.csv', mode='w', newline='') as csv_file:
-    fieldnames = ['species_name', 'tax_id', 'species_url']
-    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-    writer.writeheader()
-    for species in species_data:
-        writer.writerow({'species_name': species[0], 'tax_id': species[1], 'species_url': species[2]})
-
-
+# GCF_id['data-ga-label'] is reference genome.
+if GCF_id: 
+    href = GCF_id['href']
+    match = re.search(r'/genome/(.*?)/', href)
+    if match:
+        genome_id = match.group(1)
+        # ask Eden how to extract strain_info
+        # strain_info = GCF_id.find_next_sibling('p').text.strip()
+       #  print(genome_id, strain_info)
+        print(genome_id)
+    else:
+        print("GCF_id not found")
+else:
+    print("Reference genome not found")
 

@@ -24,7 +24,6 @@ driver.quit()
 
 # Parse the HTML content using BeautifulSoup
 soup = BeautifulSoup(html_content, 'html.parser')
-pretty_html = soup.prettify() # make it more readable
 
 # Find all <a> elements with aria-label="genus"
 genus_links = soup.find_all('a', {'aria-label': 'genus'})
@@ -46,7 +45,3 @@ with open('genus_data.csv', mode='w', newline='') as csv_file:
     writer.writeheader()
     for genus in genus_data:
         writer.writerow({'genus_name': genus[0], 'tax_id': genus[1], 'genus_url': genus[2]})
-
-# Write the HTML content to a text file
-# with open('html_2.txt', 'w') as f:
-#     f.write(pretty_html)
