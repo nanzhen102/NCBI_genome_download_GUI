@@ -14,7 +14,8 @@ from selenium import webdriver
 driver = webdriver.Chrome("/Users/nanzhen/Documents/GitHub/NCBI_genome_download_GUI/chromedriver")
 
 # Navigate to the URL with dynamic content
-species_url = 'https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/287844' 
+# !! this url is different from the url extracted from the last script
+species_url = 'https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/467997/' 
 driver.get(species_url) 
 
 # Wait for the dynamic content to load
