@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Aim: download genomes from Acc.tab file
 
 import os, csv, re
 import urllib.request
